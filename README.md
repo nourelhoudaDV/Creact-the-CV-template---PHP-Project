@@ -1,2 +1,2 @@
 # Complete CV maker create by dev106 team 
-Salam, Nour, Zineb, Karima, Mohammed
+Desgin by Salam Nour Zineb Karima <a href="https://www.facebook.com/Mujanati13">Mohammed Janati</a>
