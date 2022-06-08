@@ -1,9 +1,9 @@
 <?php 
 	function Auth(){
-		if(--){
-			return (nextpages)
-		}else {
-			return (stay in the sam place and show the error msg)
-		}
+		session_start();
+		if($_SESSION['auth'])
+			return true;
+		else 
+			return false;
 	}
  ?>
