@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+.user_opinion{
+    width: max-content;
+    height: 200px;
+    margin: auto;
+    margin-top: 100px;
+
+}
+.question_para{
+    display: inline;
+    font-size: 20px;
+}
+.skip{
+    margin-left: 15px;
+    padding: 5px 20px;
+    background-color: #fc0102;
+    color: white;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.question_heading{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.asq{
+    font-size: 17px;
+    font-weight: 800;
+}
+.button_part{
+    font-size: 23px;
+    margin-bottom: 50px;
+}
+.good{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #c0f4b2;
+    color: #8bb97d;
+    border: 1px solid #c0f4b2;
+    padding: 5px 70px;
+    border-radius: 50px;
+    margin-right: 40px;
+}
+.nice{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #f7b0f5;
+    color: #b779b5;
+    border: 1px solid #f7b0f5;
+    border-radius: 50px;
+    margin-right: 40px;
+    padding: 5px 70px;
+}
+.bad{
+    display: inline-block;
+    text-decoration: none;
+    background-color: #f3b3b3;
+    color: #ac7572;
+    border: 1px solid #f3b3b3;
+    border-radius: 50px;
+    padding: 5px 70px;
+}
+.show_demo,.b,.fill{
+    display: inline-block;
+    opacity: 0.2;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 5px;
+}
+.yes{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #079bfd;
+    opacity: 0.2;
+
+}
+.no{
+    display: inline-block;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #f51804;
+    opacity: 0.2;
+
+}
